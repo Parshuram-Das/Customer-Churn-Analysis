@@ -1,2 +1,2 @@
 # Customer-Churn-Analysis
-A statistical approach to analyze the attrition of customer towards a business or service.
+A statistical approach to analyze the attrition of customer towards a business or service.This project aims to predict customer churn using machine learning to help businesses reduce revenue loss and acquisition costs. By analyzing customer behavior, service usage, and demographics, it identifies key factors influencing churn, enabling data-driven decisions to improve engagement. The model will also optimize customer retention strategies by segmenting customers based on churn probability and recommending personalized interventions. Through predictive insights, businesses can proactively enhance customer satisfaction and maximize lifetime value.
